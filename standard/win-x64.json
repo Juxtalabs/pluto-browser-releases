@@ -1,0 +1,6 @@
+{
+  "version": "0.9.5",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.5/PlutoBrowserSetup.exe",
+  "sha256": "78cba296f8bd5186c3552cd18a2f11526c58bf8130a1e124b03ad7d4f6c80e59",
+  "notes": "- The browser is now called Pluto Browser.\n- Administrators can now choose to keep you signed in to the websites you use between sessions. This is off by default."
+}
