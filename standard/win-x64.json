@@ -1,6 +1,6 @@
 {
-  "version": "0.9.5",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.5/PlutoBrowserSetup.exe",
-  "sha256": "78cba296f8bd5186c3552cd18a2f11526c58bf8130a1e124b03ad7d4f6c80e59",
-  "notes": "- The browser is now called Pluto Browser.\n- Administrators can now choose to keep you signed in to the websites you use between sessions. This is off by default."
+  "version": "0.9.6",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.6/PlutoBrowserSetup.exe",
+  "sha256": "7479209f54364f21b8db9157fe65cc42413b5d123fa27c2847838115f93f2fe5",
+  "notes": "- New \"Continue where you left off\": when your organisation turns it on, the browser reopens the tabs you had open last time. Your tabs are kept separate from anyone else who signs in on the same computer.\n- Fixed the start page showing an internal web address in the address bar. It is now empty and ready for you to type."
 }
