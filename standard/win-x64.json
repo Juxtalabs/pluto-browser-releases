@@ -1,6 +1,6 @@
 {
-  "version": "0.9.6",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.6/PlutoBrowserSetup.exe",
-  "sha256": "7479209f54364f21b8db9157fe65cc42413b5d123fa27c2847838115f93f2fe5",
-  "notes": "- New \"Continue where you left off\": when your organisation turns it on, the browser reopens the tabs you had open last time. Your tabs are kept separate from anyone else who signs in on the same computer.\n- Fixed the start page showing an internal web address in the address bar. It is now empty and ready for you to type."
+  "version": "0.9.7",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.7/PlutoBrowserSetup.exe",
+  "sha256": "6e191cbf2dee663727f9e5158234c35637fda24f7f578a3be8a3871be855eecc",
+  "notes": "- Your organisation's start page now opens automatically when the browser launches. Before, it could sit in the address bar without loading until you pressed Enter.\n- When an administrator ends your session from the dashboard, an exam device now closes to the desktop instead of immediately reopening.\n- Added support for exam portals that only admit a dedicated exam browser. Your administrator turns this on for your organisation when a portal needs it."
 }
