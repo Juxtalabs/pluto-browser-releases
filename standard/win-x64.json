@@ -1,6 +1,6 @@
 {
-  "version": "0.9.8",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.8/PlutoBrowserSetup.exe",
-  "sha256": "1c29ecc8f6d0aca9167410ab6fd87eda4ac7b2a60fe72f986d9dd2b9dad20c1b",
-  "notes": "- Your organisation's start page now loads on its own when the browser opens. Before, it could stay blank until you pressed refresh.\n- A brief loss of internet no longer signs you out. When the connection comes back, your session carries on where it left off."
+  "version": "0.9.9",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.9/PlutoBrowserSetup.exe",
+  "sha256": "1fc9c7bf066f85580dab618c245f3855cc1a072d53e086cab5869082eba5e499",
+  "notes": "- If a security screen blocks the browser and the cause can't be removed (for example a second monitor that can't be unplugged), an enrolled device can now un-enrol right from that screen by entering its enrolment code, instead of being stuck.\n- Uninstalling now clears the device's enrolment and sign-in, so reinstalling starts fresh. Your saved passwords and history are kept."
 }
