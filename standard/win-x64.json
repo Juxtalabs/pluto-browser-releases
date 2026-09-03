@@ -1,6 +1,6 @@
 {
-  "version": "0.9.11",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.11/PlutoBrowserSetup.exe",
-  "sha256": "d9941f70eaf85f2234765897ecd94102386bc139d0ee250aea29668f6047361e",
-  "notes": "- Camera, microphone and screen sharing now ask your permission the way any browser does, and screen sharing works for the first time. Choosing \"Block\" is no longer permanent: refresh the page and you will be asked again.\n- The sign-in screen no longer locks your keyboard. Your organisation's rules now begin when you sign in, not before.\n- Typing and scrolling stay smooth throughout a session, and the browser opens noticeably faster.\n- The installer is around a third smaller to download."
+  "version": "0.9.12",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.12/PlutoBrowserSetup.exe",
+  "sha256": "3793a299f20443a598004e41ce7a27a4c670171b9d8309415fda83e0b6c3cd0b",
+  "notes": "- In Task Manager every part of the browser now appears as \"Pluto Browser\" with its icon, instead of an internal \"QtWebEngine\" entry.\n- The Inaproc sidebar's procurement login can now be set per organisation from the admin dashboard. Nothing changes until an administrator sets one.\n- Mac: videos and live streams that use H.264 (YouTube Live, Twitch, Google Meet) now play, as they already did on Windows."
 }
