@@ -1,6 +1,6 @@
 {
-  "version": "0.9.13",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.13/Pluto-Browser-0.9.13-standard-mac-universal.zip",
-  "sha256": "f11d52d8f1bc31cc9564e6949e612d9b1d7d07ed96fae349989080cc7ede3221",
-  "notes": "- Mac: fixes the wrong icon showing in the Dock."
+  "version": "0.9.14",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.14/Pluto-Browser-0.9.14-standard-mac-universal.zip",
+  "sha256": "1dba75e6efb0b5a69d04d1bed244a157cf402f24818b28c93add016918b998be",
+  "notes": "- Mac: \"Restart to update\" now closes the browser and applies the update on its own. Before, the window froze for a few seconds and the update only ran once you quit the browser by hand."
 }
