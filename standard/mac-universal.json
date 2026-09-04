@@ -1,6 +1,6 @@
 {
-  "version": "0.9.12",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.12/Pluto-Browser-0.9.12-standard-mac-universal.zip",
-  "sha256": "39b7d916eec49142374bda5523d022a98b517b61b64717328000556a47425ebd",
-  "notes": "- In Task Manager every part of the browser now appears as \"Pluto Browser\" with its icon, instead of an internal \"QtWebEngine\" entry.\n- The Inaproc sidebar's procurement login can now be set per organisation from the admin dashboard. Nothing changes until an administrator sets one.\n- Mac: videos and live streams that use H.264 (YouTube Live, Twitch, Google Meet) now play, as they already did on Windows.\n- Mac: this is the first macOS release and is meant for internal testing. The secure exam browser is not ready on Mac yet, so the exam rules that work on Windows do not apply there.\n- Mac: signing in to a site with a passkey (Touch ID) does not work yet. Use a password instead.\n- Mac: after each update, macOS asks you to allow Pluto Browser under Privacy & Security \u2192 Accessibility again."
+  "version": "0.9.13",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.13/Pluto-Browser-0.9.13-standard-mac-universal.zip",
+  "sha256": "f11d52d8f1bc31cc9564e6949e612d9b1d7d07ed96fae349989080cc7ede3221",
+  "notes": "- Mac: fixes the wrong icon showing in the Dock."
 }
