@@ -1,6 +1,6 @@
 {
-  "version": "0.9.19",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.19/Pluto-Browser-0.9.19-standard-mac-universal.zip",
-  "sha256": "d1c1296c9d2f477b2f6f0ec1fc528af8c1730e387e5ed7feb09da8fe1913da9b",
-  "notes": "- feat(ui): the whole account row is one target \u2014 hover anywhere along it, click anywhere to open the menu\n- fix(ui): the account menu is as wide as the sidebar, and its rows highlight edge to edge\n- fix(ui): a name too long for the sidebar ends in an ellipsis instead of stopping mid-word\n- fix(ui): the collapsed sidebar's tab tiles have clean corners instead of looking speckled\n- feat(ui): site icons in the collapsed sidebar are larger, and a high-resolution icon is used when the site offers one\n- fix(ui): the toolbar logo lines up with the tab column beneath it, and the gaps across the toolbar are even\n- fix(mac): dialog buttons centre their labels\n- fix(ui): the log-out and exit prompts say \"the browser\" instead of naming the product\n- fix(watermark): the wordmark reads PLUTO.IO"
+  "version": "0.9.20",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.20/Pluto-Browser-0.9.20-standard-mac-universal.zip",
+  "sha256": "d01bdd387d92612daebc33203e8bd369d671c116295f10f1311c9a3f4103e84f",
+  "notes": "- fix(updater): \"Restart to update\" is reliable again, and now says what went wrong when it cannot proceed"
 }
