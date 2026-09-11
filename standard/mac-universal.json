@@ -1,6 +1,6 @@
 {
-  "version": "0.9.20",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.20/Pluto-Browser-0.9.20-standard-mac-universal.zip",
-  "sha256": "d01bdd387d92612daebc33203e8bd369d671c116295f10f1311c9a3f4103e84f",
-  "notes": "- fix(updater): \"Restart to update\" is reliable again, and now says what went wrong when it cannot proceed"
+  "version": "0.9.21",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.21/Pluto-Browser-0.9.21-standard-mac-universal.zip",
+  "sha256": "398615db96e9cf433cf8c3140fb9068e5bfeeb1820217d963d2000731a3ed1a4",
+  "notes": "- fix(network): let the side panel load its data on macOS and Windows 10\n- fix(ui): keep the side panel from sticking on its loading state\n- fix(ui): open the browser maximised on Windows, with its minimise, maximise and close buttons\n- fix(ui): let Esc leave a page's full-screen video\n- fix(ui): use the Pluto mark in the Windows title bar and taskbar\n- fix(ui): lock two-finger scrolling to one axis on macOS, so a vertical scroll cannot drift sideways\n- fix(ui): keep the sign-in version line on one line\n- feat(ui): show a site's icon on restored and sleeping tabs instead of a letter"
 }
