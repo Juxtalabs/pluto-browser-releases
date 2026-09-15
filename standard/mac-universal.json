@@ -1,6 +1,6 @@
 {
-  "version": "0.9.21",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.21/Pluto-Browser-0.9.21-standard-mac-universal.zip",
-  "sha256": "398615db96e9cf433cf8c3140fb9068e5bfeeb1820217d963d2000731a3ed1a4",
-  "notes": "- fix(network): let the side panel load its data on macOS and Windows 10\n- fix(ui): keep the side panel from sticking on its loading state\n- fix(ui): open the browser maximised on Windows, with its minimise, maximise and close buttons\n- fix(ui): let Esc leave a page's full-screen video\n- fix(ui): use the Pluto mark in the Windows title bar and taskbar\n- fix(ui): lock two-finger scrolling to one axis on macOS, so a vertical scroll cannot drift sideways\n- fix(ui): keep the sign-in version line on one line\n- feat(ui): show a site's icon on restored and sleeping tabs instead of a letter"
+  "version": "0.9.22",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.22/Pluto-Browser-0.9.22-standard-mac-universal.zip",
+  "sha256": "126b5339e54ba16af720bf6fadac11f81d95b94ce62450eb4b203f037c34b6f3",
+  "notes": "- feat(auth): verify a candidate's face at sign-in, compared locally against a reference portrait the administrator sets\n- feat(auth): keep the face comparison entirely on the candidate's machine \u2014 no image, no score and no record leaves the browser during a check\n- feat(ui): show the check as a modal over the exam window, with Try again and Cancel\n- feat(auth): hand each session its own signing key at sign-in, so only the registered integration's server can read the result\n- feat(auth): serve the reference portrait over a signed fetch, capped at 10 MiB and 24 megapixels\n- fix(ui): keep the face modal's focus ring visible on keyboard navigation\n- feat(ui): confirm a passed check with \"Face matched. Confirming\u2026\" until the server grants the login, then show \"Verified\"\n- feat(auth): integrate as a partner with three small pieces \u2014 a login header check, one check URL, and two lines on the page \u2014 the same contract on every platform"
 }
