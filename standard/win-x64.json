@@ -1,6 +1,6 @@
 {
-  "version": "0.9.22",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v0.9.22/PlutoBrowserSetup.exe",
-  "sha256": "fd359574ae26a34fa04a3db8b836c5b68dfb032fb0b3c260b6f6c33c2e901a6a",
-  "notes": "- feat(auth): verify a candidate's face at sign-in, compared locally against a reference portrait the administrator sets\n- feat(auth): keep the face comparison entirely on the candidate's machine — no image, no score and no record leaves the browser during a check\n- feat(ui): show the check as a modal over the exam window, with Try again and Cancel\n- feat(auth): hand each session its own signing key at sign-in, so only the registered integration's server can read the result\n- feat(auth): serve the reference portrait over a signed fetch, capped at 10 MiB and 24 megapixels\n- fix(ui): keep the face modal's focus ring visible on keyboard navigation\n- feat(ui): confirm a passed check with \"Face matched. Confirming…\" until the server grants the login, then show \"Verified\"\n- feat(auth): integrate as a partner with three small pieces — a login header check, one check URL, and two lines on the page — the same contract on every platform"
+  "version": "1.0.0",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.0/PlutoBrowserSetup.exe",
+  "sha256": "2df1a7184aedf89ecdd3da3a3cd961ca46a11ca3fe82daacf20ce782f94134ed",
+  "notes": "- feat(policy): watermark rules can name a page path, not just a site"
 }
