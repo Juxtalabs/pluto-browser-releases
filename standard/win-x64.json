@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.0/PlutoBrowserSetup.exe",
-  "sha256": "2df1a7184aedf89ecdd3da3a3cd961ca46a11ca3fe82daacf20ce782f94134ed",
-  "notes": "- feat(policy): watermark rules can name a page path, not just a site"
+  "version": "1.0.1",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.1/PlutoBrowserSetup.exe",
+  "sha256": "17112514e72b356728047aa06989d954d3520e9a16adaa101cf10be5e5f43d32",
+  "notes": "- feat(downloads): show downloads in a dark panel under the toolbar's download button, with progress, time left, open, show in folder, cancel and clear all\n- feat(downloads): open the panel for a few seconds when a download starts, without taking the keyboard from the page\n- feat(downloads): show a progress ring on the toolbar's download icon while a download runs\n- feat(downloads): ask before opening a downloaded program such as an .exe or .msi\n- fix(downloads): cancel a download that is still running when the user signs out\n- feat(passwords): add a close button to the save-password prompt; it and Esc dismiss the prompt without blocking the site\n- fix(passwords): offer \"Update password?\" only when the password really changed\n- fix(passwords): offer \"Not now\" instead of \"Never\" where \"Never\" would delete a saved password for that site\n- fix(ui): stop the address bar's suggestion list from staying open over the page after clicking away or pressing Esc\n- feat(ui): show the exit button on the toolbar on every seat; a policy exit password still guards it\n- fix(session): stop the start page from staying blank after sign-in on slow PCs\n- fix(policy): apply a keep-signed-in change at the next sign-in instead of in the middle of a session"
 }
