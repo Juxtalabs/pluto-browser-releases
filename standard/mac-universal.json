@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.2/Pluto-Browser-1.0.2-standard-mac-universal.zip",
-  "sha256": "29685533d81105fc00676b992a04c969c654545d9c8fe893b1491a615d77288f",
-  "notes": "- feat(sidepanel): show the ai curation date below the product summary\n- fix(ui): stop canva flickering on windows while keeping gpu acceleration enabled"
+  "version": "1.0.3",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.3/Pluto-Browser-1.0.3-standard-mac-universal.zip",
+  "sha256": "49ecdb5d08a173fe0a9d07523018d12ebc336e5fdf857a841558716aac082543",
+  "notes": "- feat(sidepanel): show the ai curation result on drug and alat penunjang pages, with each role's verdict and findings"
 }
