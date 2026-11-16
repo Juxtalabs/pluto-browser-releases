@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.3/PlutoBrowserSetup.exe",
-  "sha256": "5871d1acad65f81cb960108b5e70a98d0fac455770ef04bcf06508df0af74e65",
-  "notes": "- feat(sidepanel): show the ai curation result on drug and alat penunjang pages, with each role's verdict and findings"
+  "version": "1.0.4",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.4/PlutoBrowserSetup.exe",
+  "sha256": "81eff323a1ac7f1c0619f7f1804148fd34610a0007261aea38cd76b38241d3c4",
+  "notes": "- fix(startup): show a spinner until the first page appears, and retry a page that does not arrive\n- fix(updater): make updates install more reliably"
 }
