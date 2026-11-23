@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.4/Pluto-Browser-1.0.4-standard-mac-universal.zip",
-  "sha256": "c1781b1d2ae1014d888d6e7f287e743c38b592aeeb68d73bae2ee72bbedb6f72",
-  "notes": "- fix(startup): show a spinner until the first page appears, and retry a page that does not arrive\n- fix(updater): make updates install more reliably"
+  "version": "1.0.5",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.5/Pluto-Browser-1.0.5-standard-mac-universal.zip",
+  "sha256": "6a1e037455fd2968009f6f9293e4a060c92e7deaad36ee61876d2bdf430bdcbc",
+  "notes": "- fix(sidepanel): point the inaproc sidebar at the new curation api"
 }
