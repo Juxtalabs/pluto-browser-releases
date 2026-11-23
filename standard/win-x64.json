@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.4/PlutoBrowserSetup.exe",
-  "sha256": "81eff323a1ac7f1c0619f7f1804148fd34610a0007261aea38cd76b38241d3c4",
-  "notes": "- fix(startup): show a spinner until the first page appears, and retry a page that does not arrive\n- fix(updater): make updates install more reliably"
+  "version": "1.0.5",
+  "url": "https://github.com/Juxtalabs/pluto-browser-releases/releases/download/v1.0.5/PlutoBrowserSetup.exe",
+  "sha256": "44e93ee375786d96b3aac72dec11553a354d68c0b5af2bb9bb7c11579f1061eb",
+  "notes": "- fix(sidepanel): point the inaproc sidebar at the new curation api"
 }
